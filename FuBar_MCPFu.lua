@@ -1,0 +1,9 @@
+
+MCPFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

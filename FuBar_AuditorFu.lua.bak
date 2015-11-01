@@ -1,0 +1,525 @@
+
+Fubar_AuditorDB = {
+	["profiles"] = {
+		["Default"] = {
+			["enabled"] = 0,
+			["absurdStyle"] = "loot",
+			["detachedTooltip"] = {
+			},
+			["hideSummary"] = false,
+			["style"] = "total",
+			["iconVisible"] = false,
+			["cashFormat"] = {
+				["toolTip"] = "Full",
+				["Bar"] = "Full",
+			},
+			["absurdDetail"] = false,
+			["hideDetails"] = false,
+			["hideCharTotals"] = false,
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}
+AuditorDB = {
+	["realms"] = {
+		["Nefarian - Horde"] = {
+			["chars"] = {
+				["Synti"] = 0,
+			},
+			["Synti"] = {
+				["historical"] = {
+					["6days"] = {
+						["other"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["taxi"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["train"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["ah"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["loot"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["trade"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["mail"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["merch"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["quest"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["repairs"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["4days"] = {
+						["other"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["taxi"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["train"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["ah"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["loot"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["trade"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["mail"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["merch"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["quest"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["repairs"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["5days"] = {
+						["other"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["taxi"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["train"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["ah"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["loot"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["trade"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["mail"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["merch"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["quest"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["repairs"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["2days"] = {
+						["other"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["taxi"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["train"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["ah"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["loot"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["trade"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["mail"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["merch"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["quest"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["repairs"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["3days"] = {
+						["other"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["taxi"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["train"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["ah"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["loot"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["trade"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["mail"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["merch"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["quest"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["repairs"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["0days"] = {
+						["other"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["taxi"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["train"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["ah"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["loot"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["trade"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["mail"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["merch"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["quest"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["repairs"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["1days"] = {
+						["other"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["taxi"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["train"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["ah"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["loot"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["trade"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["mail"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["merch"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["quest"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["repairs"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+				},
+				["timeDate"] = {
+					["timeDate"] = 1373673600,
+					["niceDate"] = "7/13/13",
+				},
+				["data"] = {
+					["other"] = {
+						["total"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["day"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["week"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["session"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["taxi"] = {
+						["total"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["day"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["week"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["session"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["ah"] = {
+						["total"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["day"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["week"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["session"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["train"] = {
+						["total"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["day"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["week"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["session"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["merch"] = {
+						["total"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["day"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["week"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["session"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["loot"] = {
+						["total"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["day"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["week"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["session"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["trade"] = {
+						["total"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["day"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["week"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["session"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["mail"] = {
+						["total"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["day"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["week"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["session"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["totals"] = {
+						["outgoings"] = 0,
+						["incomings"] = 0,
+						["actual"] = 0,
+					},
+					["repairs"] = {
+						["total"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["day"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["week"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["session"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+					["quest"] = {
+						["total"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["day"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["week"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+						["session"] = {
+							["incomings"] = 0,
+							["outgoings"] = 0,
+						},
+					},
+				},
+			},
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}

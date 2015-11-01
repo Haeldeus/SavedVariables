@@ -1,0 +1,13 @@
+
+TWFS = {
+	["Kampferprobter Hammer"] = {
+		["WF_ALL_HITS"] = 0,
+		["WF_ALL_TOTAL"] = 0,
+		["WF_ALL_PROCS"] = 0,
+		["WF_ALL_SHIT"] = 0,
+		["WF_ALL_CRITS"] = 0,
+		["WF_ALL_BEST"] = 0,
+	},
+	["VERSION"] = "1.3",
+	["UPDATE"] = "1.3",
+}

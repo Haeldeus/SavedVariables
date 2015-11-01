@@ -1,0 +1,13 @@
+
+PursueFu2DB = {
+	["profiles"] = {
+		["Default"] = {
+			["showHint"] = true,
+			["showMiniMap"] = true,
+			["remindMe"] = true,
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}

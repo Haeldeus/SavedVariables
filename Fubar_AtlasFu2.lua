@@ -1,0 +1,9 @@
+
+AtlasFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

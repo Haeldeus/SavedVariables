@@ -1,0 +1,9 @@
+
+NavigatorFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

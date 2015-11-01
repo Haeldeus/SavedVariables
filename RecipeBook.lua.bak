@@ -1,0 +1,119 @@
+
+RecipeBookData = {
+	["Nefarian"] = {
+		["Horde"] = {
+			["Banked"] = {
+			},
+			["Personal"] = {
+				["Ricky"] = {
+					["Schneiderei"] = {
+						["Leinenstoffballen"] = "optimal",
+						["Weißes Leinenhemd"] = "optimal",
+						["Braunes Leinenhemd"] = "optimal",
+						["Einfache Leinenhose"] = "optimal",
+						["Leinenumhang"] = "optimal",
+						["Rank"] = 9,
+					},
+					["Verzauberkunst"] = {
+						["Runenverzierte Kupferrute"] = "optimal",
+						["Armschiene - Schwache Gesundheit"] = "optimal",
+						["Armschiene - Schwache Abwehr"] = "optimal",
+						["Rank"] = 1,
+					},
+					["Erste Hilfe"] = {
+						["Rank"] = 1,
+					},
+				},
+			},
+			["Pending"] = {
+			},
+			["Shared"] = {
+			},
+		},
+	},
+	["Version"] = 4,
+}
+RecipeBookMasterList = {
+	["BankData"] = {
+	},
+	["Tradeskills"] = {
+		["Schneiderei"] = {
+			["Leinenstoffballen"] = {
+				["ID"] = "item:2996:0:0:0",
+				["Materials"] = {
+					["item:2589:0:0:0"] = 2,
+				},
+			},
+			["Braunes Leinenhemd"] = {
+				["ID"] = "item:4344:0:0:0",
+				["Materials"] = {
+					["item:2996:0:0:0"] = 1,
+					["item:2320:0:0:0"] = 1,
+				},
+			},
+			["Einfache Leinenhose"] = {
+				["ID"] = "item:10045:0:0:0",
+				["Materials"] = {
+					["item:2996:0:0:0"] = 1,
+					["item:2320:0:0:0"] = 1,
+				},
+			},
+			["Leinenumhang"] = {
+				["ID"] = "item:2570:0:0:0",
+				["Materials"] = {
+					["item:2996:0:0:0"] = 1,
+					["item:2320:0:0:0"] = 1,
+				},
+			},
+			["Weißes Leinenhemd"] = {
+				["ID"] = "item:2576:0:0:0",
+				["Materials"] = {
+					["item:2324:0:0:0"] = 1,
+					["item:2996:0:0:0"] = 1,
+					["item:2320:0:0:0"] = 1,
+				},
+			},
+		},
+		["Verzauberkunst"] = {
+			["Runenverzierte Kupferrute"] = {
+				["ID"] = "enchant:7421",
+				["Materials"] = {
+					["item:10938:0:0:0"] = 1,
+					["item:10940:0:0:0"] = 1,
+					["item:6217:0:0:0"] = 1,
+				},
+			},
+			["Armschiene - Schwache Abwehr"] = {
+				["ID"] = "enchant:7428",
+				["Materials"] = {
+					["item:10940:0:0:0"] = 1,
+					["item:10938:0:0:0"] = 1,
+				},
+			},
+			["Armschiene - Schwache Gesundheit"] = {
+				["ID"] = "enchant:7418",
+				["Materials"] = {
+					["item:10940:0:0:0"] = 1,
+				},
+			},
+		},
+	},
+	["Debug"] = {
+	},
+	["Links"] = {
+		["item:2996:0:0:0"] = "|cffffffff|Hitem:2996:0:0:0|h[Leinenstoffballen]|h|r",
+		["item:10938:0:0:0"] = "|cff1eff00|Hitem:10938:0:0:0|h[Geringe Magieessenz]|h|r",
+		["enchant:7418"] = "|cffffffff|Henchant:7418|h[Armschiene - Schwache Gesundheit]|h|r",
+		["item:10045:0:0:0"] = "|cffffffff|Hitem:10045:0:0:0|h[Einfache Leinenhose]|h|r",
+		["item:2576:0:0:0"] = "|cffffffff|Hitem:2576:0:0:0|h[Weißes Leinenhemd]|h|r",
+		["item:2570:0:0:0"] = "|cffffffff|Hitem:2570:0:0:0|h[Leinenumhang]|h|r",
+		["item:6217:0:0:0"] = "|cffffffff|Hitem:6217:0:0:0|h[Kupferrute]|h|r",
+		["item:10940:0:0:0"] = "|cffffffff|Hitem:10940:0:0:0|h[Seltsamer Staub]|h|r",
+		["item:2324:0:0:0"] = "|cffffffff|Hitem:2324:0:0:0|h[Bleiche]|h|r",
+		["item:2320:0:0:0"] = "|cffffffff|Hitem:2320:0:0:0|h[Grober Faden]|h|r",
+		["enchant:7421"] = "|cffffffff|Henchant:7421|h[Runenverzierte Kupferrute]|h|r",
+		["enchant:7428"] = "|cffffffff|Henchant:7428|h[Armschiene - Schwache Abwehr]|h|r",
+		["item:4344:0:0:0"] = "|cffffffff|Hitem:4344:0:0:0|h[Braunes Leinenhemd]|h|r",
+		["item:2589:0:0:0"] = "|cffffffff|Hitem:2589:0:0:0|h[Leinenstoff]|h|r",
+	},
+}

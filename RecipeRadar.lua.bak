@@ -1,0 +1,43 @@
+
+RecipeRadar_SkillDB = {
+	["Nefarian"] = {
+		["Ricky"] = {
+			["Team"] = "Horde",
+			["Professions"] = {
+				["Schneiderei"] = {
+					["Recipes"] = {
+						["Leinenstoffballen"] = 1,
+						["Braunes Leinenhemd"] = 1,
+						["Einfache Leinenhose"] = 1,
+						["Leinenumhang"] = 1,
+						["Weißes Leinenhemd"] = 1,
+					},
+					["Rank"] = 9,
+				},
+				["Verzauberkunst"] = {
+					["Recipes"] = {
+						["Runenverzierte Kupferrute"] = 1,
+						["Armschiene - Schwache Abwehr"] = 1,
+						["Armschiene - Schwache Gesundheit"] = 1,
+					},
+					["Rank"] = 1,
+				},
+				["Angeln"] = {
+					["Recipes"] = {
+					},
+					["Rank"] = 0,
+				},
+				["Erste Hilfe"] = {
+					["Recipes"] = {
+					},
+					["Rank"] = 1,
+				},
+			},
+			["Factions"] = {
+			},
+		},
+	},
+}
+RecipeRadar_NameCache = {
+	[6270] = "Muster: Blaue Leinenweste",
+}

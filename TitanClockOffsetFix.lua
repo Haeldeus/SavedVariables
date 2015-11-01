@@ -1,0 +1,4 @@
+
+ServerTimeOffsets = {
+	["Nefarian"] = 0,
+}

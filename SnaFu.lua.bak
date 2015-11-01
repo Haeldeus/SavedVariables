@@ -1,0 +1,10 @@
+
+SnaFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["OST"] = 7201,
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

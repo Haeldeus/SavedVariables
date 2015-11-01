@@ -1,0 +1,4 @@
+
+TinyClockConfig = {
+	["showSeconds"] = true,
+}

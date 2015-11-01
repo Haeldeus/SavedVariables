@@ -1,0 +1,9 @@
+
+NetStatsFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

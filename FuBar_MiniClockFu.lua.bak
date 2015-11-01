@@ -1,0 +1,11 @@
+
+MiniClockFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["LocalTimeInPanel"] = true,
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}

@@ -1,0 +1,52 @@
+
+FuBar2DB = {
+	["profiles"] = {
+		["Default"] = {
+			["fontSize"] = 12,
+			["loadOnDemand"] = {
+			},
+			["adjust"] = true,
+			["tooltip"] = {
+			},
+			["panels"] = {
+				[1] = {
+					["xPercent"] = 0,
+					["attachPoint"] = "TOP",
+					["plugins"] = {
+						["center"] = {
+						},
+						["right"] = {
+							[1] = "ClockFu",
+							[2] = "VolumeFu",
+						},
+						["left"] = {
+							[1] = "LocationFu",
+							[2] = "ExperienceFu",
+							[3] = "PerformanceFu",
+						},
+					},
+					["widthPercent"] = 1,
+					["yPercent"] = 0.5,
+				},
+				[2] = {
+					["xPercent"] = 0,
+					["attachPoint"] = "BOTTOM",
+					["widthPercent"] = 1,
+					["plugins"] = {
+						["center"] = {
+						},
+						["right"] = {
+						},
+						["left"] = {
+						},
+					},
+					["yPercent"] = 0.5,
+				},
+			},
+			["minimap"] = {
+			},
+			["detached"] = {
+			},
+		},
+	},
+}

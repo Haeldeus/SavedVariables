@@ -1,0 +1,25 @@
+
+ExperienceFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["showValue"] = {
+				["current"] = false,
+				["pet"] = false,
+				["rest"] = false,
+			},
+			["showPercent"] = {
+				["current"] = true,
+				["pet"] = true,
+				["rest"] = true,
+			},
+			["showDepletion"] = {
+				["current"] = false,
+				["pet"] = false,
+				["rest"] = false,
+			},
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}

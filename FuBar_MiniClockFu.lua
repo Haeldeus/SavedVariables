@@ -1,0 +1,9 @@
+
+MiniClockFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

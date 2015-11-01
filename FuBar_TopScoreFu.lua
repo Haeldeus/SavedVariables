@@ -1,0 +1,9 @@
+
+TopScoreFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

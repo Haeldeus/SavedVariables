@@ -1,0 +1,15 @@
+
+CorkFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["showtext"] = true,
+			["showminimap"] = false,
+			["chatalerts"] = true,
+			["showcount"] = true,
+			["playsounds"] = true,
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}

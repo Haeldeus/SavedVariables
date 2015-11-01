@@ -1,0 +1,9 @@
+
+MicroMenuFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

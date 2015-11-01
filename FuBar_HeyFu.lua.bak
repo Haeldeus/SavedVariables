@@ -1,0 +1,16 @@
+
+HeyFuDB = {
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+	["realms"] = {
+		["Nefarian - Horde"] = {
+			["NameList"] = {
+			},
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

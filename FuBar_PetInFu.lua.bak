@@ -1,0 +1,13 @@
+
+PetInFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["toggleOnClick"] = false,
+			["detachedTooltip"] = {
+			},
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}

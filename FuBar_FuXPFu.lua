@@ -1,0 +1,9 @@
+
+FuXPDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

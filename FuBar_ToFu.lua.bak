@@ -1,0 +1,24 @@
+
+ToFuDB = {
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["hook"] = {
+				["oCD"] = false,
+				["oCB"] = false,
+				["Chronometer"] = false,
+				["BigWigs"] = false,
+			},
+		},
+	},
+	["account"] = {
+		["paths"] = {
+			["Horde"] = {
+			},
+			["Alliance"] = {
+			},
+		},
+	},
+}

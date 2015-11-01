@@ -1,0 +1,22 @@
+
+RestPlus_Data = {
+	["Synti=Nefarian"] = {
+		["restXP"] = 0,
+		["currXP"] = 0,
+		["AlertStatus"] = 0,
+		["level"] = 1,
+		["logtime"] = 4483852,
+		["nextXP"] = 400,
+	},
+}
+RestPlus_Settings = {
+	["PctExp"] = true,
+	["EnableTimer"] = true,
+	["TimerDelay"] = 1800,
+	["PctRestXP"] = true,
+	["EnableSound"] = true,
+	["ShowClass"] = true,
+	["ShowRealms"] = true,
+	["PctActive"] = true,
+	["ShowState"] = true,
+}

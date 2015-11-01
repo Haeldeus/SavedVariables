@@ -1,0 +1,9 @@
+
+GatherSageDB = {
+	["Nefarian"] = {
+		["Syllix"] = {
+			["Kräuterkunde"] = 0,
+			["Bergbau"] = 0,
+		},
+	},
+}

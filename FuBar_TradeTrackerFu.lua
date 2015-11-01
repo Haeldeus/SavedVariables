@@ -1,0 +1,9 @@
+
+TradeTrackerFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

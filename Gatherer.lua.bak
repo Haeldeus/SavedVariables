@@ -1,0 +1,56 @@
+
+GatherItems = {
+	[2] = {
+		[17] = {
+			["silberblatt"] = {
+				[1] = {
+					["gtype"] = 1,
+					["x"] = 57.97,
+					["count"] = 0,
+					["icon"] = 2,
+					["y"] = 38.68,
+				},
+			},
+		},
+	},
+}
+GatherConfig = {
+	["HideOnClick"] = 0,
+	["minderTime"] = 5,
+	["maxDist"] = 20,
+	["users"] = {
+		["Ricky"] = {
+			["filterRecording"] = {
+			},
+			["filters"] = {
+			},
+		},
+	},
+	["NoIconOnMinDist"] = 0,
+	["HideOnButton"] = 0,
+	["fadeDist"] = 40,
+	["HideIcon"] = 0,
+	["number"] = 10,
+	["HideMiniNotes"] = 0,
+	["miniIconDist"] = 40,
+	["ShowOnClick"] = 0,
+	["mapMinder"] = false,
+	["disableWMFreezeWorkaround"] = 1,
+	["showWorldMapFilters"] = 0,
+	["logInfo"] = "on",
+	["Radius"] = 80,
+	["useMainmap"] = true,
+	["IconSize"] = 12,
+	["ShowOnButton"] = 0,
+	["Position"] = 12,
+	["ToggleWorldNotes"] = 0,
+	["iconSet"] = "shaded",
+	["useMinimapText"] = "on",
+	["Version"] = "2.2.3.1",
+	["rareOre"] = 0,
+	["filter"] = "all",
+	["fadePerc"] = 80,
+	["HideOnMouse"] = 1,
+	["ShowOnMouse"] = 1,
+	["useMinimap"] = true,
+}

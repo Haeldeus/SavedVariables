@@ -1,0 +1,9 @@
+
+CustomMenuFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

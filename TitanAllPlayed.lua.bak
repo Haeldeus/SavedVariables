@@ -1,0 +1,39 @@
+
+TitanAllPlayedSettings = {
+	["playerOptions"] = {
+		["hideIfSixty"] = false,
+		["showServerTotals"] = true,
+		["listScope"] = "allServers",
+		["showServerGoldTotals"] = false,
+		["showFullyRested"] = true,
+		["showGold"] = true,
+		["showCurrentOnlyLabel"] = false,
+		["showRested"] = true,
+		["colorRested"] = false,
+		["timeBar"] = false,
+		["timeServer"] = false,
+		["timeLink"] = false,
+		["showLabelValue"] = true,
+		["timeGrand"] = false,
+		["timeChar"] = false,
+		["showLevel"] = true,
+	},
+}
+TitanAllPlayedCharacters = {
+	["Nefarian"] = {
+		[1] = "Synti",
+		["Synti"] = {
+			[2] = "Allgemein",
+			[3] = 1,
+			["coin"] = 0,
+			["lastUpdate"] = 1373734405,
+			["maxRested"] = 600,
+			["name"] = "Synti",
+			["faction"] = "Horde",
+			["secondsPlayed"] = 39,
+			["level"] = 1,
+			["rested"] = 0,
+			["realm"] = "Nefarian",
+		},
+	},
+}

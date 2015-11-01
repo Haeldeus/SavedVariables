@@ -1,0 +1,9 @@
+
+uFriendsDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

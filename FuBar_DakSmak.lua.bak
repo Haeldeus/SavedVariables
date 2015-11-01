@@ -1,0 +1,9 @@
+
+DakSmakDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

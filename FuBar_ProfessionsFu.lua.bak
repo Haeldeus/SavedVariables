@@ -1,0 +1,9 @@
+
+ProfessionsFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

@@ -1,0 +1,149 @@
+
+CharactersViewerProfile = {
+	["Nefarian"] = {
+		["Synti"] = {
+			["Equipment"] = {
+				[16] = {
+					["T"] = "Interface\\Icons\\INV_Hammer_15",
+					["L"] = "item:2361:0:0:0",
+				},
+				[7] = {
+					["T"] = "Interface\\Icons\\INV_Pants_02",
+					["L"] = "item:139:0:0:0",
+				},
+				[4] = {
+					["T"] = "Interface\\Icons\\INV_Chest_Leather_04",
+					["L"] = "item:6125:0:0:0",
+				},
+			},
+			["Type"] = "Self",
+			["Timestamp"] = 1373734405,
+			["Data"] = {
+				["Type"] = "Self",
+				["Guild"] = {
+					["Rank"] = 0,
+				},
+				["Honor"] = {
+					["HK"] = 0,
+					["DK"] = 0,
+				},
+				["Money"] = 0,
+				["CombatStats"] = {
+					["P"] = 0,
+					["C"] = "5.98",
+					["B"] = 4.840000152587891,
+					["D"] = 4.340000152587891,
+				},
+				["Basic"] = {
+					["Health"] = 84,
+					["Armor"] = "32:32:0",
+					["Defense"] = 1,
+				},
+				["xp"] = {
+					["current"] = 0,
+					["max"] = 400,
+					["timestamp"] = 1373734405,
+					["resting"] = false,
+				},
+				["Location"] = {
+					["SubZone"] = "Camp Narache",
+					["Zone"] = "Mulgore",
+				},
+				["Resists"] = {
+					[2] = 0,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0,
+				},
+				["Mail"] = {
+					["HasNewMail"] = false,
+				},
+				["Timestamp"] = 1373734405,
+				["Id"] = {
+					["ClassEn"] = "WARRIOR",
+					["SexId"] = 1,
+					["Race"] = "Tauren",
+					["Name"] = "Synti",
+					["Sex"] = "Weiblich",
+					["Class"] = "Krieger",
+					["RaceEn"] = "Tauren",
+					["Level"] = 1,
+					["Server"] = "Nefarian",
+				},
+				["Stats"] = {
+					[1] = "28:28:0:0",
+					[2] = "15:15:0:0",
+					[3] = "24:24:0:0",
+					[4] = "15:15:0:0",
+					[5] = "22:22:0:0",
+				},
+			},
+			["Bag"] = {
+				[0] = {
+					[1] = {
+						["T"] = "Interface\\Icons\\INV_Misc_Rune_01",
+						["L"] = "item:6948:0:0:0",
+					},
+					[2] = {
+						["C"] = 5,
+						["L"] = "item:4540:0:0:0",
+						["T"] = "Interface\\Icons\\INV_Misc_Food_11",
+					},
+					[3] = {
+					},
+					[4] = {
+					},
+					[5] = {
+					},
+					[6] = {
+					},
+					[7] = {
+					},
+					[8] = {
+					},
+					[9] = {
+					},
+					[10] = {
+					},
+					[11] = {
+					},
+					[12] = {
+					},
+					[13] = {
+					},
+					[14] = {
+					},
+					[15] = {
+					},
+					[16] = {
+					},
+					["name"] = "Rucksack",
+					["Color"] = "ffffffff",
+					["T"] = "Interface\\Buttons\\Button-Backpack-Up",
+					["size"] = 16,
+				},
+				[-2] = {
+					[1] = {
+					},
+					[2] = {
+					},
+					[3] = {
+					},
+					[4] = {
+					},
+					["name"] = "Keyring",
+					["Color"] = "ffffffff",
+					["T"] = "Interface\\ContainerFrame\\KeyRing-Bag-Icon",
+					["size"] = 4,
+				},
+			},
+		},
+	},
+}
+CharactersViewerConfig = {
+	["Bag_Location"] = 0,
+	["version"] = 62,
+	["Bag_Display"] = true,
+	["BankBag_Display"] = true,
+}

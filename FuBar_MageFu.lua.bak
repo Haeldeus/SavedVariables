@@ -1,0 +1,106 @@
+
+FuBar_MageDB = {
+	["disabled"] = {
+		["Default"] = true,
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["text"] = {
+				["text"] = "[gemcount]/[foodcount]/[watercount]",
+			},
+			["conjure"] = {
+				["maxRankWater"] = 7,
+				["byClass"] = true,
+				["maxRankFood"] = 6,
+				["gem"] = 2,
+				["amount"] = {
+					["foodMax"] = 0,
+					["limit"] = "NONE",
+					["waterMax"] = 0,
+				},
+				["maxRankGem"] = 4,
+				["class"] = {
+					["Warrior"] = {
+						["water"] = false,
+						["food"] = true,
+					},
+					["Paladin"] = {
+						["water"] = true,
+						["food"] = false,
+					},
+					["Shaman"] = {
+						["water"] = true,
+						["food"] = false,
+					},
+					["Rogue"] = {
+						["water"] = false,
+						["food"] = true,
+					},
+					["Mage"] = {
+						["water"] = true,
+						["food"] = false,
+					},
+					["Druid"] = {
+						["water"] = true,
+						["food"] = false,
+					},
+					["Priest"] = {
+						["water"] = true,
+						["food"] = false,
+					},
+					["Hunter"] = {
+						["water"] = true,
+						["food"] = true,
+					},
+					["Warlock"] = {
+						["water"] = true,
+						["food"] = false,
+					},
+				},
+			},
+			["reagent"] = {
+				["autoBuy"] = false,
+				["arcanePowder"] = 1,
+				["runeOfTeleportation"] = 1,
+				["runeOfPortals"] = 1,
+			},
+			["consume"] = {
+				["manaThreshold"] = 0.75,
+				["healthThreshold"] = 0.75,
+			},
+			["trade"] = {
+				["autoTrade"] = false,
+			},
+			["raid"] = {
+				["inRaid"] = false,
+				["group"] = {
+					[1] = false,
+					[2] = false,
+					[3] = false,
+					[4] = false,
+					[5] = false,
+					[6] = false,
+					[7] = false,
+					[8] = false,
+				},
+				["displayBuffs"] = true,
+				["mage"] = {
+				},
+				["displayGroups"] = true,
+			},
+			["transport"] = {
+				["portal"] = {
+					["message"] = {
+					},
+				},
+				["teleport"] = {
+					["message"] = {
+					},
+				},
+			},
+		},
+	},
+}

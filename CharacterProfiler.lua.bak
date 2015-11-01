@@ -1,0 +1,27 @@
+
+rpgoCPpref = {
+	["enabled"] = true,
+	["honorold"] = true,
+	["debug"] = false,
+	["questsfull"] = false,
+	["tooltipshtml"] = true,
+	["lite"] = true,
+	["scan"] = {
+		["inventory"] = true,
+		["talents"] = true,
+		["honor"] = true,
+		["reputation"] = true,
+		["spells"] = true,
+		["pet"] = true,
+		["equipment"] = true,
+		["mail"] = true,
+		["professions"] = true,
+		["skills"] = true,
+		["quests"] = true,
+		["bank"] = true,
+	},
+	["ver"] = 10500,
+	["reagenthtml"] = true,
+	["talentsfull"] = true,
+}
+myProfile = nil

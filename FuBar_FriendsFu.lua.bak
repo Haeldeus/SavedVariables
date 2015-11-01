@@ -1,0 +1,50 @@
+
+FuBar_FriendsFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["filter"] = {
+				["class_rogue"] = true,
+				["level_3039"] = true,
+				["level_60"] = true,
+				["class_druid"] = true,
+				["zone_bg"] = true,
+				["level_2029"] = true,
+				["level_0109"] = true,
+				["class_mage"] = true,
+				["class_warlock"] = true,
+				["level_5059"] = true,
+				["class_priest"] = true,
+				["level_1019"] = true,
+				["zone_inst"] = true,
+				["class_hunter"] = true,
+				["class_shaman"] = true,
+				["class_warrior"] = true,
+				["level_4049"] = true,
+				["zone_open"] = true,
+				["class_paladin"] = true,
+			},
+			["tooltip"] = {
+				["name_status"] = true,
+				["zone_color"] = "FACTION",
+				["group_show"] = true,
+				["name_color"] = "CLASS",
+				["zone_show"] = true,
+				["note_showauldlangsyne"] = true,
+				["sort"] = "ZONE",
+				["class_show"] = false,
+				["level_show"] = true,
+				["level_color"] = "RELATIVE",
+			},
+			["detachedTooltip"] = {
+			},
+			["text"] = {
+				["show_total"] = true,
+				["show_displayed"] = true,
+				["show_online"] = true,
+			},
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}

@@ -1,0 +1,21 @@
+
+BeanCounterAccountDB = {
+	["Nefarian"] = {
+		["purchases"] = {
+		},
+		["completedAuctions"] = {
+		},
+		["pendingBids"] = {
+		},
+		["sales"] = {
+		},
+		["version"] = 30002,
+		["completedBids"] = {
+		},
+		["players"] = {
+			[1] = "Synti",
+		},
+		["pendingAuctions"] = {
+		},
+	},
+}

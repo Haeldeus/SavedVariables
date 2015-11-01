@@ -1,0 +1,9 @@
+
+SpellStatusFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

@@ -1,0 +1,10 @@
+
+SpellStatusFuDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}

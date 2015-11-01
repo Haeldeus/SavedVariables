@@ -1,0 +1,13 @@
+
+FuBar_ItemBonusesDB = {
+	["profiles"] = {
+		["Default"] = {
+			["display_none"] = true,
+			["detachedTooltip"] = {
+			},
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}

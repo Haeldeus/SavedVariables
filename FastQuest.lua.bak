@@ -1,0 +1,25 @@
+
+FQD = {
+	["AlwaysNotify"] = false,
+	["AutoNotify"] = true,
+	["AllowRaid"] = false,
+	["AutoAdd"] = true,
+	["Ricky"] = {
+		["tQuests"] = {
+			[1] = "Eine neue Seuche",
+			[2] = "Eine neue Seuche",
+			[3] = "Eine neue Seuche",
+			[4] = "Eine neue Seuche",
+			[5] = " ",
+		},
+		["nQuests"] = 2,
+		["Format"] = 1,
+		["Tag"] = false,
+	},
+	["AutoComplete"] = false,
+	["Lock"] = true,
+	["Color"] = true,
+	["NoDrag"] = false,
+	["AllowGuild"] = false,
+	["Detail"] = true,
+}

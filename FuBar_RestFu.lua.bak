@@ -1,0 +1,24 @@
+
+RestFuDB = {
+	["account"] = {
+		["Nefarian"] = {
+			["Synti"] = {
+				["restXP"] = 0.003125,
+				["currXP"] = 0,
+				["isResting"] = false,
+				["class"] = "Krieger",
+				["time"] = 1373734786,
+				["timePlayed"] = 137,
+				["level"] = 1,
+				["zone"] = "Mulgore",
+				["nextXP"] = 400,
+			},
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

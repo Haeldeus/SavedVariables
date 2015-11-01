@@ -1,0 +1,8 @@
+
+TitanItemDedSettings = {
+	["NefarianSynti"] = {
+		["Threshold"] = 1,
+		["Ignored"] = {
+		},
+	},
+}

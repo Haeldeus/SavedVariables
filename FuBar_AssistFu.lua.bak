@@ -1,0 +1,12 @@
+
+AssistFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["msg"] = "Pulling: %s",
+			["channel"] = "party",
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}

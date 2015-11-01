@@ -1,0 +1,9 @@
+
+AnkhTimerFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

@@ -1,0 +1,15 @@
+
+AnkhTimerFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["showCooldown"] = true,
+			["timeLastUsed"] = 0,
+			["showAnkhCount"] = true,
+			["ankhCount"] = 0,
+			["ankhCheckNumber"] = 0,
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}

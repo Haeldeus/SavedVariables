@@ -1,0 +1,12 @@
+
+TransporterFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["showTag"] = true,
+			["showCooldown"] = true,
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}

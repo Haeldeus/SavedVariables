@@ -1,0 +1,22 @@
+
+CritLineData = {
+	["Nefarian"] = {
+		["Synti"] = {
+			["Data"] = {
+			},
+			["Settings"] = {
+				["FilterAttacks"] = "0",
+				["CritLineButtonPosition"] = 30,
+				["ToolTip"] = "1",
+				["Hidden"] = "0",
+				["SummaryHidden"] = "1",
+				["LVLADJ"] = "0",
+				["Splash"] = "1",
+				["FilterHeals"] = "0",
+				["SplashCrit"] = "1",
+				["Sound"] = "1",
+				["ScreenShot"] = "0",
+			},
+		},
+	},
+}

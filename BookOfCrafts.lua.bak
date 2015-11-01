@@ -1,0 +1,40 @@
+
+BookOfCrafts_Data = {
+	["Version"] = "0.80",
+	["Characters"] = {
+		[1] = {
+			["Name"] = "Synti",
+			["Faction"] = "Horde",
+			["Skills"] = {
+			},
+			["Realm"] = "Nefarian",
+		},
+	},
+	["Options"] = {
+		["ShowCurPlayer"] = true,
+		["Colors"] = {
+			["Tooltips"] = {
+				["r"] = 0.2,
+				["g"] = 0.2,
+				["b"] = 0.2,
+			},
+			["TooltipsMayLearn"] = {
+				["r"] = 0,
+				["g"] = 1,
+				["b"] = 0,
+			},
+			["TooltipsKnownBy"] = {
+				["r"] = 0,
+				["g"] = 0.7,
+				["b"] = 0,
+			},
+			["TooltipsRankTooHigh"] = {
+				["r"] = 0.7,
+				["g"] = 0.5,
+				["b"] = 0,
+			},
+		},
+		["SameFaction"] = true,
+		["ShowSkillRank"] = true,
+	},
+}

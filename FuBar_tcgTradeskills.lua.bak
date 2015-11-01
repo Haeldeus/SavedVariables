@@ -1,0 +1,12 @@
+
+tcgTradeskillsDB = {
+	["profiles"] = {
+		["Default"] = {
+			["button_spacing"] = 1,
+			["icon_size"] = 3,
+		},
+	},
+	["currentProfile"] = {
+		["Synti von Nefarian"] = "Default",
+	},
+}

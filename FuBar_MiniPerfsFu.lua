@@ -1,0 +1,9 @@
+
+MiniPerfsFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}
